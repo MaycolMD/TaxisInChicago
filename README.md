@@ -32,6 +32,14 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
+## To run Frontend, in client folder:
+```bash
+npm run dev
+```
+## To run Backend, in backend folder:
+```bash
+uvicorn run:app --reload
+```
 
 ## Tech used
 1. Frontend: Next JS with React
