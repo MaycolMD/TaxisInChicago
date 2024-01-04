@@ -20,7 +20,7 @@ The dataset used in this project is sourced from bigquery-public-data.chicago_ta
 ## Getting Started
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/TaxisInChicago.git
+git clone https://github.com/MaycolMD/TaxisInChicago.git
 cd chicago-taxi-analysis
 ```
 2. Set up a virtual environment (optional but recommended):
