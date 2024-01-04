@@ -33,6 +33,13 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
+## Tech used
+1. Frontend: Next JS with React
+2. Backend: FastAPI
+3. Testing: pytest
+4. Database: MySQL
+5. Dockerizing: Docker and docker-compose
+
 ## Results
 The results folder will contain the output files, visualizations, and any other results obtained from the analysis.
 
